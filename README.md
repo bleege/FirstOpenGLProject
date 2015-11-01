@@ -5,3 +5,6 @@
 #### Chapter One - Getting Started
 
 Wire up a SurfaceView in an Android app and explore the lifecyle.
+
+
+<img src="https://raw.githubusercontent.com/bleege/FirstOpenGLProject/master/20151101-emulator-screenshot.png" width="446" height="751"/>
